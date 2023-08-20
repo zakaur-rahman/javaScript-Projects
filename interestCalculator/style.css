@@ -1,0 +1,11 @@
+body{
+    padding: 1rem;
+}
+.btn{
+    background:#03a9f4e6;
+    color: white;
+    font-size:.875rem;
+    width: auto;
+    height:auto;
+
+}
